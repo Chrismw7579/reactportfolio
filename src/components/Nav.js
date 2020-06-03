@@ -1,19 +1,19 @@
 import React from 'react';
 import '../App.css';
 
-
+//className="navbar navbar-expand-lg navbar-dark bg-primary">
 const Nav = () => {
     return(
-        <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-            <a className="navbar-brand" href="/">
+        <nav> 
+            <a href="/">
                 About
             </a>
             |
-            <a className="navbar-brand" href="/contact">
+            <a href="/contact">
                 Contact
             </a>
             |
-            <a className="navbar-brand" href="/portfolio">
+            <a href="/portfolio">
                 Portfolio
             </a>
         </nav>

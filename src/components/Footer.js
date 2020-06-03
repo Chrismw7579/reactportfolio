@@ -3,9 +3,10 @@ import '../App.css';
 
 const Footer = () => {
     return (
-        <footer>
-            <h1>Footer</h1>
-        </footer>
+        
+        <div className="footer" ></div>
+        // style={{position: 'absolute', bottom: 0}}
+        
     )
 }
 

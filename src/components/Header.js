@@ -1,11 +1,25 @@
 import React from 'react';
 import '../App.css';
+import Nav from './Nav';
 
 const Header = () => {
     return(
         <header>
-            <h1>Header Test</h1>
-        </header>
+        <div className="container">
+            <div className="row">
+                <div className="col-lg-4">
+                    <h1>Christopher Wilson</h1>
+                </div>
+    
+                <div className="col-lg-4"></div>
+    
+                <div className="col-lg-4" id="link">
+                    <Nav/>
+                </div>
+                
+            </div>
+        </div>
+    </header>
     )
 }
 

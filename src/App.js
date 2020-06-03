@@ -4,13 +4,12 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Nav from './components/Nav';
+
 
 function App() {
   return (
     <Router>
       <div>
-        {/* <Nav/> */}
         <Switch>
           <Route exact path={['/','/about']}>
             <About/>
