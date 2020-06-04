@@ -6,7 +6,7 @@ import Footer from './Footer';
 const Base = ({children}) => {
 
     return (
-        <div>
+        <div >
             <Header/>
             {children}
             <Footer/>

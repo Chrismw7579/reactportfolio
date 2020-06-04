@@ -6,11 +6,11 @@ body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     display: flex;
     flex-direction: column;
-    position: relative;
 }
 
-.flex {
+#root{
     display: flex;
+    flex-direction: column;
 }
 
 header {
@@ -47,6 +47,7 @@ h2 {
     border-style: solid;
     border-width: 1px;
     border-color: #E4EBE0;
+    margin: 0 0 60px 0;
 }
 
 .footer {
@@ -54,7 +55,16 @@ h2 {
     border-top: 8px solid #75B7D0;
     background-color: #263F60;
     height: 50px;
-   
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+}
+
+#footer {
+    /* position: relative; */
+    display: flex;
 }
 
 #Picture {
