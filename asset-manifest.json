@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.dac67392.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.3d9a2295.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.3d9a2295.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.7fc34ab9.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.7fc34ab9.js.map",
+    "static/js/2.56748247.chunk.js": "/reactportfolio/static/js/2.56748247.chunk.js",
+    "static/js/2.56748247.chunk.js.map": "/reactportfolio/static/js/2.56748247.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "precache-manifest.b89e1b4df241bb6752729f43ed0fc8b5.js": "/reactportfolio/precache-manifest.b89e1b4df241bb6752729f43ed0fc8b5.js",
+    "service-worker.js": "/reactportfolio/service-worker.js",
+    "static/css/main.dac67392.chunk.css.map": "/reactportfolio/static/css/main.dac67392.chunk.css.map",
+    "static/js/2.56748247.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.56748247.chunk.js.LICENSE.txt",
+    "static/media/Employeetracker.png": "/reactportfolio/static/media/Employeetracker.305eef83.png",
+    "static/media/MyPhoto.jpg": "/reactportfolio/static/media/MyPhoto.7b5161df.jpg",
+    "static/media/Resume.pdf": "/reactportfolio/static/media/Resume.5cd27cb4.pdf",
+    "static/media/newsflash.png": "/reactportfolio/static/media/newsflash.879c2a51.png",
+    "static/media/planner.png": "/reactportfolio/static/media/planner.1d80c400.png",
+    "static/media/quiz.png": "/reactportfolio/static/media/quiz.61f8eefc.png",
+    "static/media/radar.png": "/reactportfolio/static/media/radar.f364279c.png",
+    "static/media/reactDirectory.png": "/reactportfolio/static/media/reactDirectory.420e2fd1.png",
+    "static/media/rendezvuous.jpg": "/reactportfolio/static/media/rendezvuous.b6a328e8.jpg",
+    "static/media/weather.png": "/reactportfolio/static/media/weather.0aa999aa.png",
+    "static/media/App.css": "/reactportfolio/static/media/whirlpool.9b284953.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fc34ab9.js",
+    "static/js/2.56748247.chunk.js",
+    "static/css/main.dac67392.chunk.css",
+    "static/js/main.3d9a2295.chunk.js"
+  ]
+}
