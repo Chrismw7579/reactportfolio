@@ -11,7 +11,7 @@ function App() {
     <Router>
       <div>
         <Switch>
-          <Route exact path={['/','/about']}>
+          <Route exact path={['/','/about', '/reactportfolio']}>
             <About/>
           </Route>
           <Route exact path='/contact'>
